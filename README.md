@@ -1,2 +1,2 @@
-# Exercicios-Aula-c
+# Exercicios-Aula-C++
 Aula C++
